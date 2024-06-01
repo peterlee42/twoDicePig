@@ -1,0 +1,11 @@
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\bin\Debug\twoDicePig.exe.config
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\bin\Debug\twoDicePig.exe
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\bin\Debug\twoDicePig.pdb
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.csproj.SuggestedBindingRedirects.cache
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.gameForm.resources
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.Properties.Resources.resources
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.exe
+C:\Users\peter\source\repos\twoDicePig\twoDicePig\obj\Debug\twoDicePig.pdb
